@@ -299,7 +299,7 @@ paste("x2: ", x2)
 hist(rnorm(n = n, mean = m, sd = sd), breaks = 50, main="5025201245_Achmad Ferdiansyah_B_DNhistogram")
 ```
 
-<img src="img/6b.png" alt="6b">
+<img src="img/6b.PNG" alt="6b">
 
 - Nilai Varian ( ) dari hasil generate random nilai σ² Distribusi Normal.
 
